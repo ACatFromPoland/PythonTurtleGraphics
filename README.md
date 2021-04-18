@@ -10,7 +10,6 @@ I decided to take inspiration from the SMFL Library and made some custom classes
 ## This has no deltatime ## I was planning on adding it but I wasn't bothered in the end.
 
 - How it works? -
-**Using Asteroid as example;**
     When I got this idea, the basic concept is everything on the screen EACH FRAME would be drawn by a turtle pen.
     Each shape contains a mesh, this mesh is filled with vertice positions.
     When we draw the shapes onto the screen, we get the objects turtle and make it go to the origin vertice and follow the mesh list order to draw the rest.
