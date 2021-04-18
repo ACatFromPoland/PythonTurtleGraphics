@@ -7,8 +7,6 @@ The Asteroid game is the most functional.
 
 I decided to take inspiration from the SMFL Library and made some custom classes for rendering.
 
-## This has no deltatime ## I was planning on adding it but I wasn't bothered in the end.
-
 - How it works? -
     When I got this idea, the basic concept is everything on the screen EACH FRAME would be drawn by a turtle pen.
     Each shape contains a mesh, this mesh is filled with vertice positions.
@@ -24,8 +22,8 @@ I decided to take inspiration from the SMFL Library and made some custom classes
   Horrible.
   
   
-  
-  
+Btw deltatime was not added to this as I wasn't bothered in the end.
+
 If you want to try to make your own little thing.
 There is a template file in the template folder(duh).
 Have fun :) 
